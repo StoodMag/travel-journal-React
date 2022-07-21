@@ -1,19 +1,5 @@
-# co15640a8a43a8f2e6e2198e0
+To see the direct link of the project on the Scrimba page: https://scrimba.com/scrim/co15640a8a43a8f2e6e2198e0?a=47623.0.3.L23_18
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
 
 ## About Scrimba
 
