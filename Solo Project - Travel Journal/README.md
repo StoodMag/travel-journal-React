@@ -1,4 +1,4 @@
-To see the direct link of the project on the Scrimba page: https://scrimba.com/scrim/co15640a8a43a8f2e6e2198e0?a=47623.0.3.L23_18
+To see the direct link of the project: https://nameless-reaches-03741.herokuapp.com/
 
 
 ## About Scrimba
